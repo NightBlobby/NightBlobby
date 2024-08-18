@@ -28,7 +28,7 @@ Hey there my name is Blobby,
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightblobby&show_icons=true&theme=gruvbox)
+![Blobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightblobby&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
