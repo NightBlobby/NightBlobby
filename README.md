@@ -2,7 +2,7 @@
 
 **`(Developer/Gamer/Nerd)`**
 
-Hey there my name is Blobby,
+Hey there my name is Blobby!
 
    <p align="left">
       <a href="https://github.com/NightBlobby?tab=followers">
