@@ -58,8 +58,8 @@ Hey there! I'm **Blobby**, a passionate developer who loves creating intelligent
 - **[N.I.R.A (Neural Interactive Responsive Agent)](https://github.com/NightBlobby/N.I.R.A)**  
   Your personal AI assistant that’s smart, private, and packed with features.  
 
-- **Glyph Magic**  
-  Controlling Nothing Phone Glyph lights & syncing them with beats.  
+- **Voidcaller**  
+  A dialer base app with nothing os themeing and cool features and much more features up-comming.  
 
 - **Game Mods**  
   Custom mods for immersive gameplay & visual enhancements.  
