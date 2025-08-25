@@ -1,6 +1,6 @@
 # 🏄‍♂️ Blobby
 
-**`AI/ML Developer | Full-Stack Developer | Game Modder | Designer`**
+**`AI/ML Developer | Full-Stack Developer | Game Modder | Designer | App Developer`**
 
 Hey there! I'm **Blobby**, a passionate developer who loves creating intelligent systems, modding games, and designing sleek user experiences. Whether it's coding, building AI, or crafting immersive gaming mods, I’m always exploring something new.
 
