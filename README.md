@@ -1,41 +1,51 @@
 # 🏄‍♂️ Blobby
 
-**`(Developer/Gamer/Nerd)`**
+**`(Developer / Gamer / Nerd)`**
 
-Hey there my name is Blobby!
+Hey there! My name is **Blobby**!
 
-   <p align="left">
-      <a href="https://github.com/NightBlobby?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NightBlobby?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/NightBlobby?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NightBlobby?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+   <a href="https://github.com/NightBlobby?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NightBlobby?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/NightBlobby?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NightBlobby?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 **Languages and Tools**
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Android Studios" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original-wordmark.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" />
-<br />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<br /><br />
 
+**Additional Skills:**  
+✔ AI & Machine Learning Development  
+✔ Game Modding & Game Development  
+✔ Animation & 3D Design  
+✔ UI/UX Designing  
+✔ Server Management & Automation  
 
-#
+---
 
-### 📊 Stats
+### 📊 **Stats**
 
 ![Blobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightblobby&show_icons=true&theme=tokyonight)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
+---
 
 <details>
- <summary><h3>👾 My Villan Arc begins</h3></summary>
+<summary><h3>👾 My Villain Arc begins</h3></summary>
 
 Hey there! I’m Blobby, your friendly neighborhood computer nerd. My journey into the world of tech began during the COVID-19 pandemic when I got my hands on an ancient relic—a dusty old system from 2004. It was supposed to be for online classes, but let’s be honest, I was more interested in everything else I could do with it.
 
@@ -52,14 +62,14 @@ That’s when the floodgates opened. I dove headfirst into coding, graphic desig
 
 ### Some Nerdy Jokes (Because Why Not?)
 - Why do programmers prefer dark mode? Because the light attracts bugs.
-- I would tell you a UDP joke, but you might not get it. 
+- I would tell you a UDP joke, but you might not get it.
 - Debugging: Removing the needles from the haystack.
 
 ### The Future?
-Who knows? I’m constantly learning and evolving. Whether it's mastering AI, creating the next viral game, or figuring out how to avoid getting jailed for that Windows activation thing (kidding… probably), I’m always up for a challenge. Tho i'm lazy so i dont know...
+Who knows? I’m constantly learning and evolving. Whether it's mastering AI, creating the next viral game, or figuring out how to avoid getting jailed for that Windows activation thing (kidding… probably), I’m always up for a challenge. Tho I'm lazy so I don't know...
 
 So, welcome to my GitHub! Feel free to browse around, check out my projects, and maybe even collaborate on something cool. Just don’t ask me to fix your printer—seriously, they have a mind of their own.
 
 -->
-[Nira]: https://github.com/NightBlobby/N.I.R.A
-[Twritter]: https://x.com/NightBlobby
+[Nira]: https://github.com/NightBlobby/N.I.R.A  
+[Twitter]: https://x.com/NightBlobby  
