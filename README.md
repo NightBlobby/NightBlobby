@@ -86,4 +86,4 @@ My journey started during the **COVID era** with an ancient PC. From activating 
 
 ---
 
-[**GitHub**](https://github.com/NightBlobby) | [**Twitter**](https://x.com/NightBlobby)
+[**GitHub**](https://github.com/NightBlobby) | [**Twitter**](https://x.com/NightBlobby) | [**LinkedIn**]([https://x.com/NightBlobby](https://www.linkedin.com/in/priyanshu-sutar-0a80b3290/)
