@@ -1,9 +1,5 @@
-# 🏄‍♂️ Blobby
-
-**`AI/ML Developer | Full-Stack Developer | Game Modder | Designer | App Developer`**
-
+# 💫 About Me:
 Hey there! I'm **Blobby**, a passionate developer who loves creating intelligent systems, modding games, and designing sleek user experiences. Whether it's coding, building AI, or crafting immersive gaming mods, I’m always exploring something new.
-
 <p align="left">
    <a href="https://github.com/NightBlobby?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NightBlobby?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -11,79 +7,24 @@ Hey there! I'm **Blobby**, a passionate developer who loves creating intelligent
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NightBlobby?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NightBlobby) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NightBlobby) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NightBlobby) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NightBlobby) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nightblobby@gmail.com) 
 
-### 🏆 **About Me**
-- 💻 Developer with a passion for **AI/ML, game modding, and automation**  
-- 🎮 Gamer turned **Game Modder** & **AI enthusiast**  
-- 🛠 Building **N.I.R.A (Neural Interactive Responsive Agent)** – a personal AI assistant  
-- 🌌 Exploring **Deep Learning, Reinforcement Learning, and Game Engines**  
-- ✨ Motto: *“If it can be automated or modded, I’ll find a way!”*
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NightBlobby&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NightBlobby&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NightBlobby&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 🧰 **Languages & Tools**
-
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Pytorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-<br /><br />
-
-✔ **Additional Skills:**  
-- AI & Machine Learning Development  
-- Game Modding & Game Development  
-- Automation & Bot Development  
-- UI/UX Designing & 3D Animation  
-- Server Management  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NightBlobby&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=NightBlobby&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 📚 **Currently Learning**
-- **Deep Learning** (TensorFlow, PyTorch)  
-- **Game Engines** (Unity, Unreal Engine)  
-- **Generative AI** (Diffusion Models, Audio Generation)  
-- **Advanced Web Development** (React, Tailwind, Next.js)  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/voidwarelab) 
 
----
-
-### 🚀 **Featured Projects**
-- **[N.I.R.A (Neural Interactive Responsive Agent)](https://github.com/NightBlobby/N.I.R.A)**  
-  Your personal AI assistant that’s smart, private, and packed with features.  
-
-- **Voidcaller**  
-  A dialer base app with nothing os themeing and cool features and much more features up-comming.  
-
-- **Game Mods**  
-  Custom mods for immersive gameplay & visual enhancements.  
-
----
-
-### 📊 **Stats**
-
-![Blobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightblobby&show_icons=true&theme=tokyonight)
-
----
-
-<details>
-<summary><h3>👾 The Villain Arc</h3></summary>
-
-My journey started during the **COVID era** with an ancient PC. From activating Windows (oops) to creating AI and mods, I’ve come a long way. Now, I build things that **learn, adapt, and sometimes Rickroll you for fun.**
-
-**What’s Next?**  
-- Building **powerful AI systems**  
-- Creating **immersive gaming experiences**  
-- Designing tools that make tech fun & accessible  
-
-</details>
-
----
-
-[**GitHub**](https://github.com/NightBlobby) | [**Twitter**](https://x.com/NightBlobby) | [**LinkedIn**](https://www.linkedin.com/in/priyanshu-sutar-0a80b3290/)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
